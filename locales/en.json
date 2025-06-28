@@ -1,0 +1,8 @@
+{
+  "title": "Solar Dashboard",
+  "production": "Solar Production",
+  "efficiency": "Efficiency",
+  "status": "System Status",
+  "online": "Online",
+  "offline": "Offline"
+}
